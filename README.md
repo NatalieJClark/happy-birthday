@@ -1,12 +1,12 @@
 # Happy Birthday
 
 ## Introduction
-- This project is my second Android app.
+- This project uses Jetpack Compose to build a simple Android app that displays a birthday message on the screen.
 - Building this very simple text app was part of my learning in Makers Module 3 - Mobile Applications: Android applications.
 - It follows the offical [Android documentation tutorial](https://developer.android.com/codelabs/basic-android-kotlin-compose-text-composables#0)
 
 <p align="center">
-
+<img width="275" alt="image" src="https://github.com/NatalieJClark/happy-birthday/assets/107806810/0e30602a-7332-4a1c-ae15-59df9322d6e7">
 </p>
 
 ## Objectives
