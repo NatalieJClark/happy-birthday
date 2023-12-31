@@ -15,6 +15,8 @@
 - [x] Format the text, such as changing text size.
 
 ## Setup
+Clone this repo and open in Android Studio  
+
 Build and refresh preview:
 - `Ctrl + Shift + Cmd + R`
 
